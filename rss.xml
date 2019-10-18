@@ -3,11 +3,11 @@
 <channel>
     <title> | </title>
     <link></link>
-    <atom:link href="./rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/rss.xml" rel="self" type="application/rss+xml" />
     <description>Personal blog of </description>
     <language>en-us</language>
-    <pubDate>Fri, 18 Oct 2019 14:51:09 +0100</pubDate>
-    <lastBuildDate>Fri, 18 Oct 2019 14:51:09 +0100</lastBuildDate>
+    <pubDate>Fri, 18 Oct 2019 15:21:47 +0100</pubDate>
+    <lastBuildDate>Fri, 18 Oct 2019 15:21:47 +0100</lastBuildDate>
     
     <item>
       <title>My First Post</title>
